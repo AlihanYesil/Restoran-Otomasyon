@@ -1,0 +1,13 @@
+C:\Users\alihan\source\repos\Ödev GP\Ödev GP\bin\Debug\Ödev GP.exe.config
+C:\Users\alihan\source\repos\Ödev GP\Ödev GP\bin\Debug\Ödev GP.exe
+C:\Users\alihan\source\repos\Ödev GP\Ödev GP\bin\Debug\Ödev GP.pdb
+C:\Users\alihan\source\repos\Ödev GP\Ödev GP\obj\Debug\Ödev GP.csprojAssemblyReference.cache
+C:\Users\alihan\source\repos\Ödev GP\Ödev GP\obj\Debug\Ödev_GP.Form1.resources
+C:\Users\alihan\source\repos\Ödev GP\Ödev GP\obj\Debug\Ödev_GP.Properties.Resources.resources
+C:\Users\alihan\source\repos\Ödev GP\Ödev GP\obj\Debug\Ödev GP.csproj.GenerateResource.cache
+C:\Users\alihan\source\repos\Ödev GP\Ödev GP\obj\Debug\Ödev GP.csproj.CoreCompileInputs.cache
+C:\Users\alihan\source\repos\Ödev GP\Ödev GP\obj\Debug\Ödev GP.exe
+C:\Users\alihan\source\repos\Ödev GP\Ödev GP\obj\Debug\Ödev GP.pdb
+C:\Users\alihan\source\repos\Ödev GP\Ödev GP\obj\Debug\Ödev_GP.Form2.resources
+C:\Users\alihan\source\repos\Ödev GP\Ödev GP\obj\Debug\Ödev_GP.Form3.resources
+C:\Users\alihan\source\repos\Ödev GP\Ödev GP\obj\Debug\Ödev_GP.Form4.resources
